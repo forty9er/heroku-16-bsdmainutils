@@ -86,6 +86,7 @@ apt-get upgrade -y --force-yes
 apt-get install -y --force-yes \
     apt-utils \
     bind9-host \
+    bsdmainutils \
     bzip2 \
     coreutils \
     curl \
